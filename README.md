@@ -32,3 +32,4 @@
 
 - Realizar un método que me devuelva los contenidos favoritos sin tener en cuenta las plataformas.
 
+![download](https://github.com/facupepi/EJERCICIOPARCIAL/assets/109759897/0cd98798-d69d-4e11-bd53-62e528e4934f)
